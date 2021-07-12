@@ -16,7 +16,7 @@ email: polywrite@icloud.com
 authors:
   sal:
     name: POLYWRITE
-    display_name: POLWRITE
+    display_name: POLYWRITE
     avatar: 'assets/images/avatar-sal.png'
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net/donate/
@@ -24,7 +24,7 @@ authors:
     description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
   john:
     name: POLYAUX
-    display_name: POLAUX
+    display_name: POLYAUX
     avatar: 'assets/images/avatar.png'
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net
