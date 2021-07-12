@@ -1,7 +1,7 @@
 # Site
 name: "POLY_"
 title: "POLY_"
-description: "Where we investigate the “many” of culture, music and science"
+description: #"Where we investigate the “many” of culture, music and science"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
@@ -53,7 +53,7 @@ paginate: 6
 paginate_path: /page:num/
 
 # Other
-highlighter: rogue
+highlighter: rouge
 markdown: kramdown
 kramdown:
    syntax_highlighter_opts:
