@@ -6,7 +6,7 @@ $brown: #B59F62;
 $teal: #40FFDC;
 $black: #111;
 $primary: $teal;
-$dark:    $black;
+$dark:    $white;
 $enable-rounded: false;
 
 @import "bootstrap/functions";
@@ -246,7 +246,7 @@ img, img:hover {
     grid-gap: 30px;
 }
 .blog-grid-item {
-    color: #333;
+    color: #fff;
     padding: 0;
     display: flex;
     align-items:center;
@@ -576,7 +576,7 @@ img, img:hover {
 }
 .lunrsearchresult {
     .title {
-        color:#000;
+        color:#fff;
         font-weight:700;
         line-height:1.2;
         display:block;
@@ -614,7 +614,7 @@ body.active-side {
     padding:30px;
     border-top:1px solid $gray-200;
     font-size:15px;
-    background:#fff;
+    background:#000;
 }
 
 //responsive tweaks
