@@ -19,17 +19,17 @@ authors:
     display_name: POLYWRITE
     avatar: 'assets/images/avatar-sal.png'
     email: 'polywrite@icloud.com'
-    web: ''
+    web: 'https://many.link/polywrite'
     twitter: https://twitter.com/polywrite
-    description: "Devoted to writing on “why” of things. Topics: culture, music and science.."
+    description: "Devoted to writing on “why” of things. Topics: culture and science."
   john:
     name: POLYAUX
     display_name: POLYAUX
     avatar: 'assets/images/avatar.png'
     email: 'polyaux@icloud.com'
-    web: ''
+    web: 'https://linktr.ee/polyaux'
     twitter: https://twitter.com/polyaux
-    description: "Devoted to investigating the diversity of music — Motion graphic designer & music curator."
+    description: "Devoted to investigating the diversity of music. Topics: music. Motion graphic designer & music curator."
 
 # Plugins
 plugins:
