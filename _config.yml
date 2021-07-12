@@ -1,16 +1,16 @@
 # Site
 name: "POLY_"
 title: "POLY_"
-description: "Devoted to investigating the "many whys" of music, culture, science."
+description: "Devoted to investigating the many of music, culture, science."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl:
+baseurl: ''
 google_analytics: ''
 disqus: ''
 mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
-email: shelvasha@icloud.com
+email: 'shelvasha@icloud.com'
 
 # Authors
 authors:
@@ -18,16 +18,16 @@ authors:
     name: POLYWRITE
     display_name: POLYWRITE
     avatar: 'assets/images/avatar-sal.png'
-    email: polywrite@icloud.com
-    web:
+    email: 'polywrite@icloud.com'
+    web: ''
     twitter: https://twitter.com/polywrite
     description: "Devoted to the “why” of things. Topics: culture, music and science.."
   john:
     name: POLYAUX
     display_name: POLYAUX
     avatar: 'assets/images/avatar.png'
-    email: polyaux@icloud.com
-    web:
+    email: 'polyaux@icloud.com'
+    web: ''
     twitter: https://twitter.com/polyaux
     description: "Devoted to investigating the diversity of music — Motion graphic designer & music curator."
 
