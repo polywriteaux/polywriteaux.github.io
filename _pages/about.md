@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about
 comments: false
-image: assets/images/drip.png
+image: assets/images/drip0.png
 imageshadow: false
 ---
 
