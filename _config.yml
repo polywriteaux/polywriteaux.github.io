@@ -1,16 +1,16 @@
 # Site
 name: "POLY_"
-title: "Memoirs"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
+title: "POLY_"
+description: "Devoted to investigating the "many whys" of music, culture, science."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl:
-google_analytics: 'UA-xxxxxxxx-1'
+google_analytics: ''
 disqus: ''
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
-email: polywrite@icloud.com
+email: shelvasha@icloud.com
 
 # Authors
 authors:
@@ -18,18 +18,18 @@ authors:
     name: POLYWRITE
     display_name: POLYWRITE
     avatar: 'assets/images/avatar-sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
+    email: polywrite@icloud.com
+    web:
+    twitter: https://twitter.com/polywrite
+    description: "Devoted to the “why” of things. Topics: culture, music and science.."
   john:
     name: POLYAUX
     display_name: POLYAUX
     avatar: 'assets/images/avatar.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
+    email: polyaux@icloud.com
+    web:
+    twitter: https://twitter.com/polyaux
+    description: "Devoted to investigating the diversity of music — Motion graphic designer & music curator."
 
 # Plugins
 plugins:
@@ -53,7 +53,7 @@ paginate: 6
 paginate_path: /page:num/
 
 # Other
-highlighter: none
+highlighter: rogue
 markdown: kramdown
 kramdown:
    syntax_highlighter_opts:
