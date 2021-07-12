@@ -1,7 +1,7 @@
 # Site
 name: "POLY_"
 title: "POLY_"
-description: #"Where we investigate the “many” of culture, music and science"
+description: "Investigating the “many”" #of culture, music and science
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
@@ -17,7 +17,7 @@ authors:
   sal:
     name: POLYWRITE
     display_name: POLYWRITE
-    avatar: 'assets/images/avatar-sal.png'
+    avatar: 'assets/images/avatar-write.png'
     email: 'polywrite@icloud.com'
     web: 'https://many.link/polywrite'
     twitter: https://twitter.com/polywrite
@@ -25,7 +25,7 @@ authors:
   john:
     name: POLYAUX
     display_name: POLYAUX
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/avatar-aux.png'
     email: 'polyaux@icloud.com'
     web: 'https://linktr.ee/polyaux'
     twitter: https://twitter.com/polyaux
