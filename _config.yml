@@ -1,7 +1,7 @@
 # Site
 name: "POLY_"
 title: "POLY_"
-description: "Devoted to investigating the many of music, culture, science."
+description: "Investigating the “many”"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
@@ -21,7 +21,7 @@ authors:
     email: 'polywrite@icloud.com'
     web: ''
     twitter: https://twitter.com/polywrite
-    description: "Devoted to the “why” of things. Topics: culture, music and science.."
+    description: "Devoted to writing on “why” of things. Topics: culture, music and science.."
   john:
     name: POLYAUX
     display_name: POLYAUX
