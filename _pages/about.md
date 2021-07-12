@@ -13,8 +13,8 @@ POLY_ came about during the lockdown in the crazy year of 2020. Originally, much
 
 If you enjoy what we do, please support us by contributing to our Patreon and/or checking us out on Youtube!
 
-<a target="_blank" href="" class="btn btn-dark"> Patreon &rarr;</a>
+<a target="_blank" href="" class="btn btn-white"> Patreon &rarr;</a>
 
-<a target="_blank" href="" class="btn btn-dark"> POLYWRITE &rarr;</a>
+<a target="_blank" href="" class="btn btn-white"> POLYWRITE &rarr;</a>
 
-<a target="_blank" href="" class="btn btn-dark"> POLYAUX &rarr;</a>
+<a target="_blank" href="" class="btn btn-white"> POLYAUX &rarr;</a>
