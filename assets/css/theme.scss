@@ -262,7 +262,6 @@ img, img:hover {
         background-color: #000;
         border:0;
         color: #fff;
-
         &:hover {
            .card-title a {
                 background-size: 100% 100%;
@@ -281,6 +280,8 @@ img, img:hover {
             background-size: 0 100%;
             transition: background-size .6s ease;
             position:relative;
+            color: #fff;
+
             &:hover {
                 text-decoration:none;
             }
