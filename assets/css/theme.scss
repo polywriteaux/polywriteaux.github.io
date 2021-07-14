@@ -591,6 +591,7 @@ img, img:hover {
 
 //search
 .show-search {
+    color:$dark;
     cursor:pointer;
     &:hover {
         color: darken($primary,20%);
