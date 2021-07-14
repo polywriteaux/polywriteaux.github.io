@@ -42,7 +42,7 @@ h1,h2,h3,h4,h5,h6 {
     font-weight:700;
 }
 .site-content {
-    padding-top:50px;
+    padding-top:0px;
 }
 .sitetag {
     font-weight:700;
@@ -144,7 +144,7 @@ img, img:hover {
 .navbar-brand img {
     max-height:920px;
     margin-bottom:40px;
-    margin-top:40px;
+    margin-top:0px;
 }
 .sidebar {
     position: fixed;
@@ -618,7 +618,7 @@ img, img:hover {
 }
 .lunrsearchresult {
     .title {
-        color:#fff;
+        color:#000;
         font-weight:700;
         line-height:1.2;
         display:block;
