@@ -1,6 +1,7 @@
 ---
 
 ---
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 $brown: #B59F62;
 $teal: #40FFDC;
@@ -19,7 +20,7 @@ $enable-rounded: false;
 
 // general
 body, input, button, select, optgroup, textarea {
-    font-family:Sen;
+    font-family:'Raleway'; // Sen
 }
 body {
     line-height:1.7;
@@ -42,7 +43,7 @@ h1,h2,h3,h4,h5,h6 {
     font-weight:700;
 }
 .site-content {
-    padding-top:50px;
+    padding-top:0px;
 }
 .sitetag {
     font-weight:700;
@@ -144,7 +145,7 @@ img, img:hover {
 .navbar-brand img {
     max-height:920px;
     margin-bottom:40px;
-    margin-top:40px;
+    margin-top:-25px;
 }
 .sidebar {
     position: fixed;
@@ -463,6 +464,7 @@ img, img:hover {
     margin-right: auto;
     margin-top:50px;
     margin-bottom:50px;
+    border-radius: 5px;
 }
 .image-shadow {
     -webkit-box-shadow: 0 7px 50px 0 rgba(84,110,122,.15);
@@ -582,7 +584,7 @@ img, img:hover {
         li {
             margin:15px 0;
             a {
-                color:$white;
+                color:$dark;
             }
         }
     }
@@ -590,6 +592,7 @@ img, img:hover {
 
 //search
 .show-search {
+    color:$dark;
     cursor:pointer;
     &:hover {
         color: darken($primary,20%);
@@ -616,7 +619,7 @@ img, img:hover {
 }
 .lunrsearchresult {
     .title {
-        color:#fff;
+        color:#000;
         font-weight:700;
         line-height:1.2;
         display:block;
